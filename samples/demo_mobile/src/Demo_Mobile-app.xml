@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<application xmlns="http://ns.adobe.com/air/application/4.0">
+<application xmlns="http://ns.adobe.com/air/application/15.0">
 
-    <id>com.gamua.starling.demo</id> <!-- Bundle Identifier. Required. -->
+    <id>com.9ria.starling.demo</id> <!-- Bundle Identifier. Required. -->
     <filename>Starling-Demo</filename> <!-- Used as the filename for the application. Required. -->
     <name>Starling Demo</name> <!-- The name that is displayed below the app icon. -->
     <versionNumber>0.0.1</versionNumber> <!-- Required. -->
